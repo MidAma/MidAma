@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href=""><img src="https://discord.c99.nl/widget/theme-4/1023515168119988224.png" alt="rien"/></a>
+<a href=""><img src="[https://discord.c99.nl/widget/theme-4/1023515168119988224.png](https://discord.c99.nl/widget/theme-3/1023515168119988224.png)" alt="rien"/></a>
 
 
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
